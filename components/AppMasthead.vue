@@ -1,11 +1,13 @@
 <template>
-  <img src="@/assets/img/banner.jpg"> 
+  <img id="bird" src="@/assets/img/banner.jpg"> 
 </template>
 
 <script>
-  export default {
-    
-  }
+import { TimelineMax, TweenMax, Sine } from 'gsap'
+
+export default {
+
+}
 </script>
 
 <style lang="scss" scoped>

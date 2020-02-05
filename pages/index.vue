@@ -42,13 +42,13 @@ grid-row-gap: 0px;
     }
   .links { 
     grid-area: 5 / 1 / 6 / 5; 
-    padding-top: 30px;
+    padding: 30px;
     }
   .nextpage { 
     grid-area: 4 / 5 / 6 / 6; 
-    background: green;
+    background: black;
     color: white;
-    padding-top: 30px;
+    padding: 30px;
     }
 }
 </style>

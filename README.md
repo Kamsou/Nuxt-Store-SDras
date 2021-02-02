@@ -1,4 +1,4 @@
-# pcfv2
+# Nuxt Store
 
 > My funkadelic Nuxt.js project
 
